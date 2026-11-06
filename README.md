@@ -25,3 +25,6 @@ m4 screws,9,https://www.amazon.com/VGBUY-298pcs-Assortment-Printer-Stainless/dp/
 epoxy ,15,https://www.amazon.com/Crystal-Clear-Bubble-Free-Anti-Yellowing-Leveling/dp/B07S1MLQMJ  to seal the print to be able to hold ink/liquid
 
 total cost is $45
+
+
+https://cad.onshape.com/documents/3a60cf97497c6c3430f22ce5/w/c2b1b2f64357fe3d264e1d6d/e/8e6edc08163bb0e829d24c40?renderMode=0&uiState=6aed2f5893b64168b3de434e
