@@ -1,10 +1,12 @@
 # fountain-pen-dipwell-and-holder
 
-This is a fountain pen holder. It's designed to hold a Parker fountain pen. So you can use the pen as a dip pen. If you don't want to use the cartige ot the ink converter.
-The reason I made this is that it was too tiring and messy to use it as a dip pen with its original bottle.
+The Fountain Pen Dipwell and Holder is a 3D printed holder that lets you use a Parker fountain pen as a dip pen, with no cartridge or converter needed. It is epoxy sealed so it can hold ink, and it uses M4 heat inserts and screws tightened watertight to keep it sealed. You fill it through the conical hole, while the other hole lets air escape, and you can use any ink in it except glitter ink, which is not recommended. It is hand wash only, and the whole build costs about 45 dollars in parts, including the M4 inserts, M4 screws, the 3D print, and the epoxy.
 
-<img width="604" height="731" alt="image" src="https://github.com/user-attachments/assets/ed651338-40b7-4bea-9c73-e450773a6b09" />
-<img width="1200" height="724" alt="image" src="https://github.com/user-attachments/assets/ba16e4a5-0882-417f-96ec-348704b07844" />
+I made this because I wanted a simple way to use my Parker pen as a dip pen and try out different inks without going through a cartridge or converter each time. Dipping the pen straight into the holder makes it quick and easy to switch inks and test new colors, and building it myself meant I could make it exactly the size and shape I wanted for my desk.
+
+<img width="343" height="430" alt="image" src="https://github.com/user-attachments/assets/1b4470e0-f798-4b3a-b619-562b995c085e" />
+<img width="766" height="463" alt="Screenshot 2026-11-08 4 19 58 PM" src="https://github.com/user-attachments/assets/489b3feb-fbc5-47de-babd-96c7b18130bd" />
+
 
 Assembly instructions 
 First, you take the epoxy and cover it where it's highlighted in the image 
