@@ -29,7 +29,13 @@ You have 2 ways to secure it; the first way is through a clamp
 Or you can drop 1 screw through the 2 top holes and then screw it into the wood of the desk 
 
 
-<img width="1764" height="606" alt="table" src="https://github.com/user-attachments/assets/3f3f004c-dcae-4472-9db1-40e449cb1a2c" />
+| name | cost | link/notes |
+| --- | --- | --- |
+| m4 heat insert | 10 | https://www.amazon.com/dp/B0FD89Y73F |
+| m4 screws | 9 | https://www.amazon.com/VGBUY-298pcs-Assortment-Printer-Stainless/dp/B0DCVVYCS8 |
+| 3d print | 11 | printing legion |
+| epoxy | 15 | https://www.amazon.com/Crystal-Clear-Bubble-Free-Anti-Yellowing-Leveling/dp/B07S1MLQMJ  to seal the print to be able to hold ink/liquid |
+| wood screws 1 1/4 in long constuction screws 
 
 
 https://cad.onshape.com/documents/3a60cf97497c6c3430f22ce5/w/c2b1b2f64357fe3d264e1d6d/e/8e6edc08163bb0e829d24c40?renderMode=0&uiState=6aed2f5893b64168b3de434e
