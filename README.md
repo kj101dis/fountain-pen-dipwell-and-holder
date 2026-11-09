@@ -29,68 +29,7 @@ You have 2 ways to secure it; the first way is through a clamp
 Or you can drop 1 screw through the 2 top holes and then screw it into the wood of the desk 
 
 
-<style>
-#tz-gl4iyi .tableizer-table {
-  border-collapse: collapse;
-  width: auto;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  color: #3f3f46;
-  font-size: 12px;
-}
-#tz-gl4iyi .tableizer-table th {
-  padding: 12px 22px;
-  text-align: left;
-  font-weight: 600;
-  font-size: 12px;
-  background-color: transparent;
-  color: #18181b;
-  border-bottom: 2px solid #18181b;
-}
-#tz-gl4iyi .tableizer-table td {
-  padding: 12px 22px;
-  text-align: left;
-  color: #3f3f46;
-  border-bottom: 1px solid #e8e8e8;
-}
-#tz-gl4iyi .tableizer-table .tz-right { text-align: right; }
-</style>
-<div id="tz-gl4iyi" class="tableizer-root">
-<table class="tableizer-table">
-  <thead>
-    <tr>
-      <th>name</th>
-      <th class="tz-right">cost</th>
-      <th>link/notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>m4 heat insert</td>
-      <td class="tz-right">10</td>
-      <td>https://www.amazon.com/dp/B0FD89Y73F</td>
-    </tr>
-    <tr>
-      <td>m4 screws</td>
-      <td class="tz-right">9</td>
-      <td>https://www.amazon.com/VGBUY-298pcs-Assortment-Printer-Stainless/dp/B0DCVVYCS8</td>
-    </tr>
-    <tr>
-      <td>3d print</td>
-      <td class="tz-right">11</td>
-      <td>printing legieon</td>
-    </tr>
-    <tr>
-      <td>epoxy</td>
-      <td class="tz-right">15</td>
-      <td>https://www.amazon.com/Crystal-Clear-Bubble-Free-Anti-Yellowing-Leveling/dp/B07S1MLQMJ  to seal the print to be able to hold ink/liquid</td>
-    </tr>
-    <tr>
-      <td>wood screws 1 1/4 in long constuction screws</td>
-      <td class="tz-right"></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<img width="1764" height="606" alt="table" src="https://github.com/user-attachments/assets/3f3f004c-dcae-4472-9db1-40e449cb1a2c" />
+
 
 https://cad.onshape.com/documents/3a60cf97497c6c3430f22ce5/w/c2b1b2f64357fe3d264e1d6d/e/8e6edc08163bb0e829d24c40?renderMode=0&uiState=6aed2f5893b64168b3de434e
