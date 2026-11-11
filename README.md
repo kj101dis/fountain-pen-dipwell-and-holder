@@ -33,8 +33,8 @@ Or you can drop 1 screw through the 2 top holes and then screw it into the wood 
 | --- | --- | --- |
 | m4 heat insert | 10 | https://www.amazon.com/dp/B0FD89Y73F |
 | m4 screws | 9 | https://www.amazon.com/VGBUY-298pcs-Assortment-Printer-Stainless/dp/B0DCVVYCS8 |
-| 3d print | 11 | printing legion |
-| epoxy | 15 | https://www.amazon.com/Crystal-Clear-Bubble-Free-Anti-Yellowing-Leveling/dp/B07S1MLQMJ  to seal the print to be able to hold ink/liquid |
+| 3d print | 11 | printing legion | https://hackclub.slack.com/archives/D0CDJBVDQSX/p1793910544461869 |
+| epoxy | 13 | https://www.walmart.com/ip/Bond-Craftor-16-oz-Clear-Epoxy-Resin-Kit-Easy-Mix-1-1-High-Gloss-Bubble-Free-for-Casting-Coating-DIY-Molds-Jewelry/15257757230? |
 | wood screws 1 1/4 in long constuction screws 
 
 
